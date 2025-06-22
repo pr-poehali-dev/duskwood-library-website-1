@@ -13,8 +13,8 @@ export const books: Book[] = [
     title: "Interactive Book",
     author: "Vendetta",
     image:
-      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=300&h=400&fit=crop",
-    link: "https://vendetta-game.com",
+      "https://i.pinimg.com/736x/09/b8/dd/09b8dd289144f54e863e0928f615fc1f.jpg",
+    link: "https://interactive-book-vendetta--preview.poehali.dev/",
     type: "book",
   },
   {
@@ -22,7 +22,7 @@ export const books: Book[] = [
     title: "Сад и огород 101 совет",
     author: "Катрин Освальд",
     image:
-      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/0d/b5/47/0db547fd818f4680cfacfb65534d69bb.jpg",
     type: "book",
   },
   {
@@ -30,7 +30,7 @@ export const books: Book[] = [
     title: "Архитектура Дасквуда",
     author: "Сэмюэль Р.",
     image:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/1a/10/49/1a10499bcf41685218b149b19538a5a2.jpg",
     type: "book",
   },
   {
@@ -38,7 +38,7 @@ export const books: Book[] = [
     title: "Чума в Дасквуде",
     author: "Карстен Джерико",
     image:
-      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/00/a0/21/00a02143c4dca82ebfa829a3cea44c1f.jpg",
     type: "book",
   },
   {
@@ -46,7 +46,7 @@ export const books: Book[] = [
     title: "Полночь в Дасквуде",
     author: "С. Куин",
     image:
-      "https://images.unsplash.com/photo-1518373714866-3f1478910cc0?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/52/79/08/5279085d8852503a31fb3640de695aa8.jpg",
     type: "book",
   },
   {
@@ -54,7 +54,7 @@ export const books: Book[] = [
     title: "Флора и Фауна",
     author: "Адам П.",
     image:
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/15/e9/6c/15e96ce334c761bdaf7b995e1936e084.jpg",
     type: "book",
   },
   {
@@ -62,7 +62,7 @@ export const books: Book[] = [
     title: "Мертвый город",
     author: "Интерактивная игра",
     image:
-      "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=300&h=400&fit=crop",
+      "https://everbytestudio.com/wp-content/uploads/2018/11/Text-Adventure-Dead-City-Android-iOS.jpg",
     type: "game",
   },
   {
@@ -70,7 +70,7 @@ export const books: Book[] = [
     title: "Moonvale",
     author: "Игровой мир",
     image:
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop",
+      "https://everbytestudio.com/wp-content/uploads/2023/05/MOONVALE-Web-Selection-Button.jpg",
     type: "game",
   },
 ];

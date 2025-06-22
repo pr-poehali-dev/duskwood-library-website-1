@@ -11,13 +11,11 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <img
-              src="https://i.pinimg.com/736x/39/63/49/3963498a2c431df6b48759872d412a3a.jpg"
-              alt="Library Avatar"
-              className="w-12 h-12 rounded-full border-2 border-white"
-            />
+            <div className="w-12 h-12 rounded-full border-2 border-white bg-amber-800 flex items-center justify-center">
+              <Icon name="Feather" size={20} className="text-white" />
+            </div>
             <h1 className="text-2xl font-bold tracking-wide">
-              DUSKWOOD LIBRARY
+              DUSKWOOD LIBRARY SEARCH
             </h1>
           </div>
 
